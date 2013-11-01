@@ -1,0 +1,2 @@
+Il faut que ladresse quon met a linit des grs pour le 2e ecran soit SCREEN1 + 34, et non pas screen2
+Les chiffres de la statbar (vies...) ne doivent plus s'afficher en passant au 2e ecran par + 1100h
