@@ -1,7 +1,5 @@
 ## cs2d - Counter Strike 2d game for HP49 in Saturn assembly
 
-A Counter Strike-like game in 2D.
-
 I did this back in 2001, all programmed in Saturn assembly on the HP49
 calculator itself.
 
